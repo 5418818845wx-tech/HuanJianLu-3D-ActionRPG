@@ -6,7 +6,7 @@
 ## 演示视频
 
 <!-- TODO: 上传视频后，把下面的“待补充”替换成视频链接 -->
-- 演示视频：**待补充（B 站 / YouTube 链接）**
+- 演示视频：bilibili.com/video/BV1RmJi6yE4S（B 站 / YouTube 链接）**
 
 ## 项目截图
 
