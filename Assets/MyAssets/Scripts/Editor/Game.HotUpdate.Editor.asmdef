@@ -1,0 +1,19 @@
+{
+    "name": "Game.HotUpdate.Editor",
+    "rootNamespace": "MyGame.EditorTools",
+    "references": [
+        "Game.HotUpdate",
+        "YarnSpinner.Unity"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

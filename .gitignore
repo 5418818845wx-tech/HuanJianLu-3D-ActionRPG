@@ -1,0 +1,56 @@
+# ============================================================
+# 本仓库只收录「本人编写的脚本」和「README 展示截图」
+# 第三方付费美术资源、模型、音频、构建产物、AssetBundle 均不上传
+# ============================================================
+
+# 忽略根目录下的所有内容
+/*
+!/.gitignore
+!/README.md
+!/Assets/
+
+# Assets 下只放行自己写的脚本和截图
+/Assets/*
+!/Assets/MyAssets/
+/Assets/MyAssets/*
+!/Assets/MyAssets/Scripts/
+!/Assets/MyAssets/Scripts.meta
+!/Assets/Screenshots/
+!/Assets/Screenshots.meta
+
+# ------------------------------------------------------------
+# 以下是标准 Unity 忽略项（防止以后误提交生成文件）
+# ------------------------------------------------------------
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# IDE
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity 生成文件
+*.assetbundle
+*.unitypackage
+crashlytics-build.properties
+sysinfo.txt
+debug.log
